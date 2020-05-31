@@ -1,13 +1,5 @@
-# HTStream    ![](https://github.com/ibest/HTStream/workflows/C++%20CI/badge.svg)
-A toolset for high throughput sequence analysis using a streaming approach facilitated by Linux pipes.
+# HTStream Project HAS MOVED!!!
 
+Please begin immediatly using discontinuing use of this repository and starting using the HTStream at [https://github.com/s4hts/HTStream](https://github.com/s4hts/HTStream)
 
-Please see the web page for install and usage instructions: 
-https://ibest.github.io/HTStream/
-
-
-If you encounter any bugs or have suggestions for improvement, please post them to:
-https://github.com/ibest/HTStream/issues
-
-
-Thanks for trying HTStream!
+Thanks!  HTStream developers
