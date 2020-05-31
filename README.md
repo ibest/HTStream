@@ -1,5 +1,7 @@
 # HTStream Project HAS MOVED!!!
 
-Please begin immediatly using discontinuing use of this repository and starting using the HTStream at [https://github.com/s4hts/HTStream](https://github.com/s4hts/HTStream)
+Please immediately begin using HTStream at [https://github.com/s4hts/HTStream](https://github.com/s4hts/HTStream). This copy is for historical purposes only and will no longer be kept up to date.
 
-Thanks!  HTStream developers
+Thanks!
+  
+--- HTStream developers
